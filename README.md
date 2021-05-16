@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mason</h1>
 <h3 align="center">A passionate innovator based in Singapore</h3>
 
-- 🔭 I’m currently working on **various AdTech and EdTech ideas**
+🔭 I’m currently working on **various AdTech and EdTech ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
